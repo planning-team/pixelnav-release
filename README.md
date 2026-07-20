@@ -1,4 +1,5 @@
 # PixelNav: Towards Model-based Vision-Only Navigation with Topological Graphs
+
 [\[arxiv\]](https://arxiv.org/abs/2507.20892)
 ---
 
